@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Lota - A Software Support Business.
 
-We are committed to help your business grow. We can take care of software, so that you can take care of what matters to you most, growing your business
+We are committed to help your business grow. We take care of software, so you can concertrate on what matters to you the most, growing your business
