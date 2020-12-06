@@ -6,56 +6,37 @@ weight: 2
 layout: service
 ---
 
-We use some cloud providor services for application. Cloud service is scalable and secure and easy to maintenance, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+We create modern Cloud Native application.
+Cloud Native can implement scalable application and dynamic environment.
 
-## Inter pectore totidem
+## Benefits of Cloud Native
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+### TODO: Add Cloud motif image
 
-## Novis hunc qua erat caecisque
+All applications should be created by Cloud Native.
+Cloud have types of Public/Private/Hybrid.
 
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
+### Scalability
+### Maintenability
+### Stability
 
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
 
-## Naiades latuere rubenti tendere os Phrygum eminus
+## Microservice Architecture
 
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
+### TODO: Add Microservice motif image
 
-## Statuunt nais inponere tamen duodena aemulus mille
+We can create MicroService Architecture by Container or Kubernetes.
+Microservice is kind of Service-Oriented Architecture, we divide architecture into some modules for each functions.
+We enforce Continuous delivery and Continuous deployment for maintenability ans security.
+Our team has certified enginner of CKA or CKAD, we have high confidence for creating architecture.
 
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
+## Public Cloud Solution
 
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
+### TODO: Add Public Cloud service Logo motif image
 
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+Of course, we introduce Public Cloud Service solution like below not only public cloud.
+We deeply understand each service's merit or specification, so we can estimete suitable cost for customer.
+
+1. AWS EC2, EKS
+2. GCP GKE
+3. Azure AKS
