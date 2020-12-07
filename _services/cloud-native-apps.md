@@ -6,37 +6,38 @@ weight: 2
 layout: service
 ---
 
-We create modern Cloud Native application.
-Cloud Native can implement scalable application and dynamic environment.
+We create modern and sophisticated Cloud Native Application.  
+Cloud Native Application can implement scalable and dynamic environment.
 
-## Benefits of Cloud Native
+## <span style="color: #e62721;">Benefits of Cloud Native Application</span>
 
 ### TODO: Add Cloud motif image
 
+
 All applications should be created by Cloud Native.
-Cloud have types of Public/Private/Hybrid.
+Cloud has some types like **Public/Private/Hybrid**, we can use each type as necessary.
 
-### Scalability
-### Maintenability
-### Stability
+- ***Scalability***
+- ***Maintenability***
+- ***Stability***
 
 
-## Microservice Architecture
+## <span style="color: #e62721;">Microservice Architecture</span>
 
 ### TODO: Add Microservice motif image
 
-We can create MicroService Architecture by Container or Kubernetes.
+We can create MicroService Architecture by Container or Kubernetes.  
 Microservice is kind of Service-Oriented Architecture, we divide architecture into some modules for each functions.
-We enforce Continuous delivery and Continuous deployment for maintenability ans security.
-Our team has certified enginner of CKA or CKAD, we have high confidence for creating architecture.
+We enforce Continuous delivery and Continuous deployment for maintenability and security.  
+Our team has certified enginner of CKA or CKAD, we have high confidence for creating architecture :fist:
 
-## Public Cloud Solution
+## <span style="color: #e62721;">Public Cloud Solution</span>
 
 ### TODO: Add Public Cloud service Logo motif image
 
-Of course, we introduce Public Cloud Service solution like below not only public cloud.
+We introduce Public Cloud Service solution like below.  
 We deeply understand each service's merit or specification, so we can estimete suitable cost for customer.
 
-1. AWS EC2, EKS
-2. GCP GKE
-3. Azure AKS
+| **AWS** | EC2, EKS |
+| **GCP** | GKE |
+| **Azure** | AKS |
